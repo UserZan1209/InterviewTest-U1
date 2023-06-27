@@ -1,0 +1,121 @@
+.container{
+    width:1024px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    text-align: center;
+    
+}
+
+body{
+    background-color: black;
+    background-image: url(Assets/Backgrounds/BG-Index.png);
+    background-size:cover;
+    background-position: center;
+    
+}
+
+header{
+    height:118;
+    background-color: rgb(37, 209, 186);
+}
+
+nav{
+    background-color: rgb(209, 149, 37);
+    height: 50px;
+    font-size: 30px;
+
+}
+
+Main{
+    background-color: rgb(146, 37, 209);
+    background-image: url(Assets/Backgrounds/BG-BrickP.png);
+    background-repeat: repeat;
+    background-size: auto 20%;
+
+    height: 700px;
+
+    font-size: 35px;  
+    color: antiquewhite;
+
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+footer{
+    background-color: rgb(37, 209, 60);
+    background-image: url(Assets/Backgrounds/BG-Stone.png);
+    background-repeat: repeat;
+    background-size: auto 20%;
+    height: 400px;
+
+    font-size: 35px;  
+    color: antiquewhite;
+
+    padding-top: 30px;
+    padding-left: 500px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+
+h1 {
+    color: black;
+    font-style: normal;
+    font-size: 100px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: black;
+    font-style: normal;
+    font-size: 50px;
+    
+}
+
+h3{
+    color: black;
+    font-style: normal;
+    font-size: 50px;
+    
+}
+
+
+.boxTemplateOne{
+    background-color: rgb(87, 87, 87);
+    width: 500px;
+    height: 50px;
+
+    
+}
+
+
+.boxTemplateTwo{
+    background-color: rgb(207, 207, 207);
+    width: 500px;
+    height: 250px;
+}
+
+.boxTemplateThree{
+    background-color: rgb(139, 139, 139);
+    width: 250px;
+    height: 100px;
+}
+
+.boxTemplateFour{
+    background-color: rgb(53, 53, 53);
+    width: 250px;
+    height: 100px;
+}
+
+.textTemplate{
+    color: black;
+    font-size: 70;
+}
+
+
